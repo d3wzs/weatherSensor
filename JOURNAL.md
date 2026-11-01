@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/qnpvzhhkfz56rfpziusmkfll)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A window mounted weather station that calculates and displays the outdoor and indoor tempature without an outdoor module.
+> A window mounted weather station that calculates and displays the outdoor and indoor tempature without an outdoor module. Onshape Project URL: https://cad.onshape.com/documents/2d10fba1547206601a41c9a0/w/028683067ab7544603f05453/e/67b5b4d1b8c2c7dccabaf999?renderMode=0&uiState=6ae69f8d90cc937188a116b6
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
