@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 18.1h | 7 |
+| Week 4 | Tier 1 | 18.5h | 7 |
 
 ## Contents
 
@@ -140,11 +140,13 @@ stupid screenshot to show the code.
 
 ### 2026-10-31: Apparently my one sensor needs a resistor. So I made that last minute change, updated everything nesccary on the github. I made sure that the resistors placement would not interfere with the case so t
 
-**1.9h**
+**2.3h**
 
 Apparently my one sensor needs a resistor. So I made that last minute change, updated everything nesccary on the github. I made sure that the resistors placement would not interfere with the case so thats all good.
 
 Secondly, I worked on the code a bit more. I googled how to do it and made the buttons have another function when double clicked, this still isnt the final code. Ill work on that once ive built the project. Started wondering how im going to do week 6, I haven't recieved funding yet, but it was approved. Beats me.
+
+Lastly, some last minute changes to the aliexpress cart, mainly because aliexpress prices change alot, and one of my items was not choice.
 
 Thanks for reading. =)
 
@@ -152,3 +154,6 @@ Thanks for reading. =)
 added resistor, think its correct, hoepfully i wasnt lied to
 ![Screenshot 2026-10-31 at 19.02.39](https://halflife.hackclub-assets.com/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/663ca8999a55d611fbb49396211d3babe4704577b9d48a99ce43b63abd1dff60.png)
 code for the second button
+
+![Screenshot 2026-10-31 at 19.06.32](https://halflife.hackclub-assets.com/sessions/IqKQ0Du94Pt2vrswBNWS6YhdQDYQ91lM/02283dd6112a35d551af3651a44f2fe78886a5950c0734ec399cfd2e602412d9.png)
+aliexpress cart
