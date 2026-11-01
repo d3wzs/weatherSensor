@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 4 | Tier 1 | 17.95h | 7 |
+| Week 4 | Tier 1 | 18.1h | 7 |
 
 ## Contents
 
@@ -140,7 +140,7 @@ stupid screenshot to show the code.
 
 ### 2026-10-31: Apparently my one sensor needs a resistor. So I made that last minute change, updated everything nesccary on the github. I made sure that the resistors placement would not interfere with the case so t
 
-**1.75h**
+**1.9h**
 
 Apparently my one sensor needs a resistor. So I made that last minute change, updated everything nesccary on the github. I made sure that the resistors placement would not interfere with the case so thats all good.
 
